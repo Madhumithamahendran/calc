@@ -143,7 +143,7 @@ for (item of buttons) {
 }
 ```
 ## OUTPUT:
-![OUTPUT](./out.png)
+![OUTPUT](./outcc.png)
 
 ## HTML VALIDATOR:
 ![HTML VALIDATOR](./valid.png)
